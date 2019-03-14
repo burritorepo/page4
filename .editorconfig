@@ -1,0 +1,9 @@
+root = true # desde la raíz, .editorconfig debe estar dentro de la carpeta raiz
+[*]
+end_of_line = lf # left final? / buscar info 
+insert_final_newline = true
+indent_style = space
+indent_size = 2
+
+# solo edita lo que se escribe dentro del codigo, tb se puede definir para afectar solo a ciertos formatos
+# en este caso esta de forma general al usar el asterisco    

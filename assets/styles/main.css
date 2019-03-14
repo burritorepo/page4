@@ -1,0 +1,29 @@
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 164px;
+  background-color: #62346f;
+}
+
+.header .logo-nav {
+  display: flex;
+  margin-left: 31px;
+  width: 50%
+}
+
+.header .logo-nav .nav-flex ul {
+  display: flex;
+  margin-left: 67px;
+}
+
+.header .media-search {
+  display: flex;
+  width: 50%;
+}
+
+.header .media-search img {
+  display: flex;
+  margin-right: 50px;
+}
